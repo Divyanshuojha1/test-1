@@ -14,7 +14,7 @@ def divide(x, y):
         return "Error! Division by zero."
     return x / y
 
-def percentage(x, y):
+def percentage(x, y):s
     return (x * y) / 100
 
 while True:
